@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 50px;
 }
 
 /*--------------------------------------------------------------
@@ -2075,5 +2075,5 @@ section {
 }
 
 .navbar-burlywood {
-  background-color: burlywood!important;
+  /*background-color: burlywood!important;*/
 }
